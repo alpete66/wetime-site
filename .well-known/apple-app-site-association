@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5ZV3PBDG2U.com.petersen.wetime",
+        "paths": ["/join/*", "/invite/*"]
+      }
+    ]
+  }
+}
